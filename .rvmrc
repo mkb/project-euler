@@ -1,3 +1,5 @@
 
-rvm use rbx
+rvm use rbx-1.2.4
+
+
 
